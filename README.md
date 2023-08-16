@@ -20,7 +20,7 @@ The aim of this seminar course is to let students learn how to design and build 
 The course materials will be based on a mixture of classic and recently published papers. For each topic, &nbsp;the basic concepts and technology landscape will be first provided and then two state-of-the art of papers will be presented and discussed by students.
 
 
-##  <a name='Paper List'></a>paer
+##  <a name='Paper List'></a>paper
 
 
 Check [Paper Reading List](PaperList.md)

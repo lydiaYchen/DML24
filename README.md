@@ -72,10 +72,9 @@ To pass the course, you need to
 - Week3:  Federated Machine Learning I
 - Week4: Fedearted Machine Learning II
 - Week 5-8: Self study
-- Week 9: Paper presentation and discussion on topic 1 and 2
-- Week 10: Paper presentation and discussion on topic 3 and 4
-- Week 111/12: Paper presentation and discussion on topic 5,  6, and 7
-
-
-
-
+- Week 9: Paper presentation and discussion on topic 1
+- Week 10: Paper presentation and discussion on topic 2
+- Week 11: Paper presentation and discussion on topic 3
+- Week 12: Paper presentation and discussion on topic 4
+- Week 13: Paper presentation and discussion on topic 5
+- Week 14: Paper presentation and discussion on topic 6

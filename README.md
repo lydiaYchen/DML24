@@ -67,14 +67,21 @@ To pass the course, you need to
 2. Present at least 1 paper (20 minutes plus Q/A)
 
 ##  <a name='Detailedschedule'></a>Detailed schedule
-- Week1: Distributed Machine Learning
-- Week2: Distributed Machine Learning II, acceleartion
-- Week3:  Federated Machine Learning I
-- Week4: Fedearted Machine Learning II
-- Week 5-8: Self study
-- Week 9: Paper presentation and discussion on topic 1
-- Week 10: Paper presentation and discussion on topic 2
-- Week 11: Paper presentation and discussion on topic 3
-- Week 12: Paper presentation and discussion on topic 4
-- Week 13: Paper presentation and discussion on topic 5
-- Week 14: Paper presentation and discussion on topic 6
+
+
+**Week**|**Topic**
+:-----|:-----
+Week 1 | Distributed Machine Learning I |
+Week 2 | Distributed Machine Learning II, acceleration
+Week 3| Federated Machine Learning I
+Week 4| Fedearted Machine Learning II
+Week 5| Self study
+Week 6| Self study
+Week 7| Self study
+Week 8| Self study
+Week 9| Paper presentation and discussion on topic 1
+Week 10|Paper presentation and discussion on topic 2
+Week 11| Paper presentation and discussion on topic 3
+Week 12| Paper presentation and discussion on topic 4
+Week 13| Paper presentation and discussion on topic 5
+Week 14| Paper presentation and discussion on topic 6

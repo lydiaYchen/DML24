@@ -23,9 +23,9 @@ This repository contains the materials of the  **Seminar Distributed Machine Lea
 
 ###  Topic 1: Distributed machine learning -- Going parallel
 
-- - Asynchronous SGD Beats Minibatch SGD Under Arbitrary Delays https://proceedings.neurips.cc/paper_files/paper/2022/hash/029df12a9363313c3e41047844ecad94-Abstract-Conference.html
+- Asynchronous SGD Beats Minibatch SGD Under Arbitrary Delays https://proceedings.neurips.cc/paper_files/paper/2022/hash/029df12a9363313c3e41047844ecad94-Abstract-Conference.html
 
-Varuna: scalable, low-cost training of massive deep learning models https://dl.acm.org/doi/abs/10.1145/3492321.3519584
+- Varuna: scalable, low-cost training of massive deep learning models https://dl.acm.org/doi/abs/10.1145/3492321.3519584
 
 - DRAGONN: Distributed Randomized Approximate Gradients of Neural Networks https://proceedings.mlr.press/v162/wang22aj.html
 
@@ -43,8 +43,7 @@ Varuna: scalable, low-cost training of massive deep learning models https://dl.a
 
 ###  Topic 3: Accelerating machine learning system-- Going specialized
 
-Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning&nbsp; https://www.usenix.org/conference/osdi22/presentation/zheng-lianmin
-
+- Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning&nbsp; https://www.usenix.org/conference/osdi22/presentation/zheng-lianmin
 
 - Out-of-order backprop: an effective scheduling technique for deep learning https://dl.acm.org/doi/abs/10.1145/3492321.3519563
 
@@ -72,7 +71,7 @@ Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Lear
 
 - FairVFL: A Fair Vertical Federated Learning Framework with Contrastive Adversarial Learning&nbsp; https://proceedings.neurips.cc/paper_files/paper/2022/hash/333a7697dbb67f09249337f81c27d749-Abstract-Conference.html
 
-- - IFL-GAN: Improved Federated Learning Generative Adversarial Network With Maximum Mean Discrepancy Model Aggregation&nbsp; https://ieeexplore.ieee.org/abstract/document/9763075?casa_token=NzH2dxZSvb0AAAAA:gYjvYJ_IPhGdxKgmTFbTatHHlixbx-s83HdNrxU9VqMFtB67AyVhyYOxFdyUdRN58GG-8-qj1g
+- IFL-GAN: Improved Federated Learning Generative Adversarial Network With Maximum Mean Discrepancy Model Aggregation&nbsp; https://ieeexplore.ieee.org/abstract/document/9763075?casa_token=NzH2dxZSvb0AAAAA:gYjvYJ_IPhGdxKgmTFbTatHHlixbx-s83HdNrxU9VqMFtB67AyVhyYOxFdyUdRN58GG-8-qj1g
 
 - Personalized Federated Learning through Local Memorization&nbsp; https://icml.cc/virtual/2022/spotlight/18222
 
@@ -99,7 +98,7 @@ JAHS-Bench-201: A Foundation For Research On Joint Architecture And Hyperparamet
 This course will be mainly taught by [Prof. Lydia Y Chen]([https://lydiaychen.github.io/])  The course team is composed of a number of PhDs  who support the course through guest lectures and project supervision.
 
 
-[//] : # ()  [Jeroen Galjaard](Jeroen Galjaard <J.M.Galjaard@tudelft.nl>l) (PhD student))
+[//]: # ( [Jeroen Galjaard](Jeroen Galjaard <J.M.Galjaard@tudelft.nl>l) (PhD student))
 
 Lydia is the responsible instructors of this course and can jointly be reached at **lydiaychen@ieee.org**.
 
@@ -147,15 +146,6 @@ In order to pass this course, you need to fullfil **all** of the following:
 - Lecture 2
 - Lecture 3
 - Lecture 4
-
-
-##  9. <a name='Collaborationv.s.cheating'></a>Collaboration v.s. cheating
-
-
-You will receive one homework every few weeks. These are meant to reinforce the material that we are learning during that time, so please start immediately. Please do not search the web for help on the homework problems. It is difficult to develop good homework problems, and thus you may come across similar problems if you search the web for help. 
-
-Each pearson must write up the final solutions individually. If you discussion with classmates, please make sure you still work on your homework individually without copying solutions.
-
 
 
 

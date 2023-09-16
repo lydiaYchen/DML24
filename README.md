@@ -84,4 +84,4 @@ Week 10|Paper presentation and discussion on topic 2
 Week 11| Paper presentation and discussion on topic 3
 Week 12| Paper presentation and discussion on topic 4
 Week 13| Paper presentation and discussion on topic 5
-Week 14| Paper presentation and discussion on topic 6
+

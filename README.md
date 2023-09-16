@@ -9,7 +9,7 @@ This repository contains the materials of the  **Seminar Distributed Machine Lea
 ##  <a name='Importantlinks'></a>Important links
 
 - [Paper Reading List](PaperList.md)
-- [Review template] (review.md)
+- [Review template](review.md)
 
 
 

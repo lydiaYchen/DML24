@@ -9,6 +9,7 @@ This repository contains the materials of the  **Seminar Distributed Machine Lea
 ##  <a name='Importantlinks'></a>Important links
 
 - [Paper Reading List](PaperList.md)
+- [Review template] (review.md)
 
 
 
@@ -62,7 +63,7 @@ There is no grade but pass/fail of the group project.
 **All assessment items (reviews and presentation slides) have to be submitted via ILIAS.**
 
 To pass the course, you need to
-1. Submmit at least 5 paper reviews (template and requirement can be found here )
+1. Submmit at least 5 paper reviews (template and requirement can be found [here](review.md) )
 2. Present at least 1 paper (20 minutes plus Q/A)
 
 ##  <a name='Detailedschedule'></a>Detailed schedule
@@ -72,7 +73,7 @@ To pass the course, you need to
 :-----|:-----
 Week 1 | Distributed Machine Learning I |
 Week 2 | Distributed Machine Learning II, acceleration
-Week 3| Federated Machine Learning I
+Week 3| Federated Machine Learning I (Online,https://tudelft.zoom.us/j/6633612475 )
 Week 4| Fedearted Machine Learning II
 Week 5| Self study
 Week 6| Self study

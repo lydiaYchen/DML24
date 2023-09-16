@@ -23,7 +23,7 @@ The course materials will be based on a mixture of classic and recently publishe
 
 
 
-##  <a name='Paper List'></a>Paper
+##  <a name='Paper List'></a>Papers
 
 
 Paper reading and reviews are the key activities in this course. To pass the course, you need to 

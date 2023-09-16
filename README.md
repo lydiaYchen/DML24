@@ -21,7 +21,6 @@ The aim of this seminar course is to let students learn how to design and build 
 
 The course materials will be based on a mixture of classic and recently published papers. The first 3-4 lectures, the basic concept of distributed machine learning will be covered, followed by three weeks of self-study time, and then student presentations will be given.
 
-[//]: # (For each topic, &nbsp;the basic concepts and technology landscape will be first provided and then two state-of-the art of papers will be presented and discussed by students.)
 
 
 ##  <a name='Paper List'></a>Paper
@@ -48,7 +47,7 @@ Lydia can be alwasy reached at **lydiaychen@ieee.org**. In order to get prompt r
 [//]: # (This is a **5 EC course**, with **140 hours** of course work in total. We expect you to spread the load evenly across the 9 course weeks.)
 
 ##  <a name='Learningobjectives'></a>Learning objectives
--  To argue and reason about distributed ML from a systems perspective.
+- To argue and reason about distributed ML from a systems perspective.
 - To understand the behavior and tradeoffs of distributed ML in terms of performance and scalability
 - To estimate the importance of data inputs via different techniques, i.e., core set and decomposition methods, for distributed ML systems.
 - To understand data poison attacks and design defense strategy for distributed ML systems.
@@ -63,7 +62,7 @@ There is no grade but pass/fail of the group project.
 **All assessment items (reviews and presentation slides) have to be submitted via ILIAS.**
 
 To pass the course, you need to
-1. Submmit at least 5 paper reviews (template and requirement can be found  here )
+1. Submmit at least 5 paper reviews (template and requirement can be found here )
 2. Present at least 1 paper (20 minutes plus Q/A)
 
 ##  <a name='Detailedschedule'></a>Detailed schedule

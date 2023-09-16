@@ -65,7 +65,7 @@ There is no grade but pass/fail of the group project.
 
 To pass the course, you need to
 1. Submmit at least 5 paper reviews (template and requirement can be found [here](review.md) )
-2. Present at least 1 paper (20 minutes plus Q/A)
+2. Present at least 1 paper (30 minutes plus Q/A)
 
 ##  <a name='Detailedschedule'></a>Detailed schedule
 

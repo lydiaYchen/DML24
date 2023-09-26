@@ -33,7 +33,7 @@
 - Decentralized Training of Foundation Models in Heterogeneous Environments&nbsp; https://arxiv.org/abs/2206.01288
 
 
-###  Topic 5: Robustness:Adversarials in distributed/decentralized learning
+###  Topic 4: Robustness:Adversarials in distributed/decentralized learning
 
 - Neurotoxin: Durable Backdoors in Federated Learning https://arxiv.org/abs/2202.04856nips.cc/paper/2021/file/0d924f0e6b3fd0d91074c22727a53966-Paper.pdfhttps://icml.cc/virtual/2022/spotlight/18208
 
@@ -46,7 +46,7 @@
 - PPA: Preference Profiling Attack Against Federated Learning &nbsp; https://arxiv.org/abs/2202.04856
 
 
-###  Topic 6/7: Personalization: Specialized distributed learning systems (I,II)
+###  Topic 5/6: Personalization: Specialized distributed learning systems (I,II)
 
 - FairVFL: A Fair Vertical Federated Learning Framework with Contrastive Adversarial Learning&nbsp; https://proceedings.neurips.cc/paper_files/paper/2022/hash/333a7697dbb67f09249337f81c27d749-Abstract-Conference.html
 

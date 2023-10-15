@@ -73,9 +73,9 @@ To pass the course, you need to
 **Week**|**Topic**
 :-----|:-----
 Week 1 | Distributed Machine Learning I |
-Week 2 | Distributed Machine Learning II, acceleration
-Week 3| Federated Machine Learning I (Online,https://tudelft.zoom.us/j/6633612475 )
-Week 4| Fedearted Machine Learning II
+Week 2 | Fedearted Machine Learning II
+Week 3| Self-study
+Week 4| Aceeleration
 Week 5| Self study
 Week 6| Self study
 Week 7| Self study

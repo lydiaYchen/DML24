@@ -28,8 +28,8 @@ The course materials will be based on a mixture of classic and recently publishe
 
 
 Paper reading and reviews are the key activities in this course. To pass the course, you need to 
-- Submit at least 5 reviewers on 5 different topics out of 7 topics.
-- Present at least one paper out of 7 topics during the second half of the course.
+- Submit at least 4 reviewers on 4 different topics out of 6 topics.
+- Present at least one paper out of 6 topics during the second half of the course.
 - All reviews need to be submitted to the ILIAS by the last week of the semester.
 
 

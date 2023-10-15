@@ -80,9 +80,9 @@ Week 5| Self study
 Week 6| Self study
 Week 7| Self study
 Week 8| Self study
-Week 9| Paper presentation and discussion on topic 1
-Week 10|Paper presentation and discussion on topic 2
-Week 11| Paper presentation and discussion on topic 3
-Week 12| Paper presentation and discussion on topic 4
-Week 13| Paper presentation and discussion on topic 5
+Week 9| Paper presentation and discussion on topic 1-6
+Week 10|Paper presentation and discussion on topic 1-6
+Week 11| Paper presentation and discussion on topic 1-6
+Week 12| Paper presentation and discussion on topic 1-6
+Week 13| Paper presentation and discussion on topic 1-6
 

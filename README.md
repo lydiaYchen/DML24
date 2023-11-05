@@ -56,9 +56,7 @@ Lydia can be alwasy reached at **lydiaychen@ieee.org**. In order to get prompt r
 - To analyze the state-of-the art federated machine learning systems and design the failure-resilient communication protocols
 - To design and implement methods and techniques for making distributed ML systems more efficient.
 - 
-##  <a name='dart:Gradingpolicy'></a>:dart: Grading policy
 
-There is no grade but pass/fail of the group project.
 
 
 **All assessment items (reviews and presentation slides) have to be submitted via ILIAS.**

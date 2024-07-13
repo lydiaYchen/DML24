@@ -3,7 +3,7 @@
 :warning: **I am still developing the course content. The content will be only be finalized by the end of the first week of the semester.**
 
 
-This repository contains the materials of the  **Seminar Distributed Machine Learning Systems** - fall 2023  at UniNE . 
+This repository contains the materials of the  **Seminar Distributed Machine Learning Systems** - fall 2024  at UniNE . 
 
 
 ##  <a name='Importantlinks'></a>Important links

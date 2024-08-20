@@ -28,8 +28,8 @@ The course materials will be based on a mixture of classic and recently publishe
 
 
 Paper reading and reviews are the key activities in this course. To pass the course, you need to 
-- Submit at least 4 reviewers on 4 different topics out of 6 topics.
-- Present at least one paper out of 6 topics during the second half of the course.
+- Submit at 3 reviewers on different topics.
+- Present at one paper out of 5 topics during the second half of the course.
 - All reviews need to be submitted to the ILIAS by the last week of the semester.
 
 
@@ -42,11 +42,8 @@ This course will be mainly taught by [Prof. Lydia Y Chen]([https://lydiaychen.gi
 
 
 
-Lydia can be alwasy reached at **lydiaychen@ieee.org**. In order to get prompt response about the course, put the email title starting with [DML23]
+Lydia can be alwasy reached at **lydiaychen@ieee.org**. In order to get prompt response about the course, put the email title starting with [DML24]
 
-[//]: # (5. <a name='ECs'></a>ECs)
-
-[//]: # (This is a **5 EC course**, with **140 hours** of course work in total. We expect you to spread the load evenly across the 9 course weeks.)
 
 ##  <a name='Learningobjectives'></a>Learning objectives
 - To argue and reason about distributed ML from a systems perspective.
@@ -83,4 +80,4 @@ Week 10 (11/19)|Paper presentation and discussion on topic 1-5 | Aditya and stud
 Week 11 (11/26)| Paper presentation and discussion on topic 1-5 | Gill and students
 Week 12 (12/93)| Paper presentation and discussion on topic 1-5 | Basil and students
 Week 13 (12/10)| Writing reviews
-Week 14 (12/17)| Writing review
+Week 14 (12/17)| Writing reviews

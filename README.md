@@ -1,9 +1,9 @@
-# DML
+# Seminar on Distributed Machine Learning Systems
 
 :warning: **I am still developing the course content. The content will be only be finalized by the end of the first week of the semester.**
 
 
-This repository contains the materials of the  **Seminar Distributed Machine Learning Systems** - fall 2024  at UniNE . 
+This repository contains the materials of the  **Seminar Distributed Machine Learning Systems** - fall 2024  at the master program of BeNeFri . 
 
 
 ##  <a name='Importantlinks'></a>Important links
@@ -78,6 +78,6 @@ Week 8 (11/05)| Topic 1-5 | Bart and students
 Week 9 (11/12| Topic 1-5 | Nikolay and students
 Week 10 (11/19)|Topic 1-5 | Aditya and students
 Week 11 (11/26)| Topic 1-5 | Gill and students
-Week 12 (12/93)| Topic 1-5 | Basil and students
+Week 12 (12/09)| Topic 1-5 | Basil and students
 Week 13 (12/10)| Writing reviews
 Week 14 (12/17)| Writing reviews

@@ -1,5 +1,84 @@
+### Topic 1: Introduction to Distributed ML Systems
+
+- Unbiased Compression Saves Communication in Distributed Optimization: When and How Much
+https://arxiv.org/abs/2305.16297
+
+- Varuna: scalable, low-cost training of massive deep learning model
+https://arxiv.org/abs/2111.04007
+
+- Decentralized Training of Foundation Models in Heterogeneous Environments
+https://arxiv.org/abs/2206.01288
+
+- Communication-efficient Distributed Learning for Large Batch Optimization
+https://icml.cc/virtual/2022/spotlight/17002
+
+### Topic 2: Acceleration of ML Workloads
+
+- FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning
+https://openreview.net/forum?id=mZn2Xyh9Ec
+- Fast Attention Over Long Sequences With Dynamic Sparse Flash Attention 
+https://openreview.net/forum?id=UINHuKeWUa
+
+- FP6-LLM: Efficiently Serving Large Language Models Through FP6-Centric Algorithm-System Co-Design
+https://arxiv.org/abs/2401.14112
+
+- MegaBlocks: Efficient Sparse Training with Mixture-of-Experts
+https://proceedings.mlsys.org/paper_files/paper/2023/hash/5a54f79333768effe7e8927bcccffe40-Abstract-mlsys2023.html
+
+### Topic 3: Federated Learning&nbsp;
+- FedFed: Feature Distillation Against Data Heterogeneity in Federated Learning
+https://arxiv.org/abs/2310.05077
+- VF-PS: How to Select Important Participants in Vertical Federated Learning, Efficiently and Securely?
+"https://nips.cc/virtual/2022/poster/53772
+- FLuID: Mitigating Stragglers in Federated Learning Using Invariant Dropout
+https://arxiv.org/pdf/2307.02623.pdf
+- DFRD: Data-Free Robustness Distillation for Heterogeneous Federated Learning
+https://arxiv.org/abs/2309.13546
+
+- Multimodal Federated Learning via Contrastive Representation Ensemble
+https://openreview.net/forum?id=Hnk1WRMAYqg
+
+### Topic 4: Federated Generative AI Systems
 
 
+- Tree-Ring Watermarks: Fingerprints for Diffusion Images that are Invisible and Robust
+https://arxiv.org/abs/2305.20030
+- Diffusion Models and Semi-Supervised Learners Benefit Mutually with Few Labels
+https://arxiv.org/abs/2302.10586
+- SiloFuse: SiloFuse: Cross-silo Synthetic Data Generation with Latent Tabular Diffusion Model
+https://arxiv.org/abs/2404.03299
+
+### Topic 5: Attacks and Defenses in ML Systems
+
+- Understanding and Mitigating Copying in Diffusion Models
+https://arxiv.org/pdf/2210.10880.pdf
+- Learning to Invert: Simple Adaptive Attacks for Gradient Inversion in Federated Learning
+https://arxiv.org/abs/2210.10880
+- A Watermark for Large Language Models
+https://arxiv.org/abs/2301.10226
+- Lockdown: Backdoor Defense for Federated Learning with Isolated Subspace Training
+https://openreview.net/forum?id=V5cQH7JbGo
+
+### Topic 6: Scalable Inference and Fine-tuning
+
+- QLORA: Efficient Finetuning of Quantized LLMs
+https://openreview.net/pdf?id=OUIFPHEgJU
+
+- MatFormer: Nested Transformer for Elastic Inference
+https://arxiv.org/abs/2310.07707
+
+- Efficient Memory Management for Large Language Model Serving with PagedAttention
+https://arxiv.org/abs/2309.06180
+
+- Retentive Network: A Successor to Transformer for Large Language Models
+https://arxiv.org/abs/2307.08621
+
+
+
+
+
+
+<!--
 ###  Topic 1: Distributed machine learning -- Going parallel
 
 - Asynchronous SGD Beats Minibatch SGD Under Arbitrary Delays https://proceedings.neurips.cc/paper_files/paper/2022/hash/029df12a9363313c3e41047844ecad94-Abstract-Conference.html
@@ -67,3 +146,4 @@ JAHS-Bench-201: A Foundation For Research On Joint Architecture And Hyperparamet
 
 - Scaling Distributed Machine Learning with the Parameter Server https://web.eecs.umich.edu/~mosharaf/Readings/Parameter-Server.pdf
 
+-->

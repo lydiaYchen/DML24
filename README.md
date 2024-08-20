@@ -62,25 +62,25 @@ Lydia can be alwasy reached at **lydiaychen@ieee.org**. In order to get prompt r
 **All assessment items (reviews and presentation slides) have to be submitted via ILIAS.**
 
 To pass the course, you need to
-1. Submmit at least 4 paper reviews (template and requirement can be found [here](review.md) )
-2. Present at least 1 paper (30 minutes plus Q/A)
+1. Submmit at 3 paper reviews (template and requirement can be found [here](review.md) )
+2. Present at 1 paper (30 minutes plus Q/A)
 
 ##  <a name='Detailedschedule'></a>Detailed schedule
 
 
-**Week**|**Topic**
+**Week**|**Topic**|**Presenter**
 :-----|:-----
-Week 1 | Distributed Machine Learning I |
-Week 2 | Fedearted Machine Learning II
-Week 3| Self-study
-Week 4| Aceeleration
-Week 5| Self study
-Week 6| Self study
-Week 7| Self study
-Week 8| Self study
-Week 9| Paper presentation and discussion on topic 1-6
-Week 10|Paper presentation and discussion on topic 1-6
-Week 11| Paper presentation and discussion on topic 1-6
-Week 12| Paper presentation and discussion on topic 1-6
-Week 13| Paper presentation and discussion on topic 1-6
-
+Week 1 (09/17) | Distributed Machine Learning I | Lydia
+Week 2 (09/24)| Acceleration | Lydia
+Week 3 (10/01)| Federated Machine Learning II | Lydia
+Week 4 (10/08)| Self study|
+Week 5 (10/15)| Self study|
+Week 6 (10/22)| Self study |
+Week 7 (10/29)| Self study |
+Week 8 (11/05)| Paper presentation and discussion on topic 1-5 | Bart and students
+Week 9 (11/12| Paper presentation and discussion on topic 1-5 | Nikolay and students
+Week 10 (11/19)|Paper presentation and discussion on topic 1-5 | Aditya and students
+Week 11 (11/26)| Paper presentation and discussion on topic 1-5 | Gill and students
+Week 12 (12/93)| Paper presentation and discussion on topic 1-5 | Basil and students
+Week 13 (12/10)| Writing reviews
+Week 14 (12/17)| Writing review

@@ -1,80 +1,88 @@
-### Topic 1: Introduction to Distributed ML Systems
+### Topic 1: Distributed Learning and  Accelration
 
-- Unbiased Compression Saves Communication in Distributed Optimization: When and How Much
+  1. Unbiased Compression Saves Communication in Distributed Optimization: When and How Much
 https://arxiv.org/abs/2305.16297
 
-- Varuna: scalable, low-cost training of massive deep learning model
+  2. Varuna: scalable, low-cost training of massive deep learning model
 https://arxiv.org/abs/2111.04007
 
-- Decentralized Training of Foundation Models in Heterogeneous Environments
+3. Decentralized Training of Foundation Models in Heterogeneous Environments
 https://arxiv.org/abs/2206.01288
 
-- Communication-efficient Distributed Learning for Large Batch Optimization
+4. Communication-efficient Distributed Learning for Large Batch Optimization
 https://icml.cc/virtual/2022/spotlight/17002
 
-### Topic 2: Acceleration of ML Workloads
+5. FwdLLM: Efficient Federated Finetuning of Large Language Models with Perturbed Inferences
+https://www.usenix.org/conference/atc24/presentation/xu-mengwei
 
-- FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning
-https://openreview.net/forum?id=mZn2Xyh9Ec
-- Fast Attention Over Long Sequences With Dynamic Sparse Flash Attention 
-https://openreview.net/forum?id=UINHuKeWUa
-
-- FP6-LLM: Efficiently Serving Large Language Models Through FP6-Centric Algorithm-System Co-Design
-https://arxiv.org/abs/2401.14112
-
-- MegaBlocks: Efficient Sparse Training with Mixture-of-Experts
+6. MegaBlocks: Efficient Sparse Training with Mixture-of-Experts
 https://proceedings.mlsys.org/paper_files/paper/2023/hash/5a54f79333768effe7e8927bcccffe40-Abstract-mlsys2023.html
 
-### Topic 3: Federated Learning&nbsp;
-- FedFed: Feature Distillation Against Data Heterogeneity in Federated Learning
-https://arxiv.org/abs/2310.05077
-- VF-PS: How to Select Important Participants in Vertical Federated Learning, Efficiently and Securely?
-"https://nips.cc/virtual/2022/poster/53772
-- FLuID: Mitigating Stragglers in Federated Learning Using Invariant Dropout
+### Topic 2: Federated Learning 
+
+
+1. FLuID: Mitigating Stragglers in Federated Learning Using Invariant Dropout
 https://arxiv.org/pdf/2307.02623.pdf
-- DFRD: Data-Free Robustness Distillation for Heterogeneous Federated Learning
+
+2. DFRD: Data-Free Robustness Distillation for Heterogeneous Federated Learning
 https://arxiv.org/abs/2309.13546
 
-- Multimodal Federated Learning via Contrastive Representation Ensemble
+3. Multimodal Federated Learning via Contrastive Representation Ensemble
 https://openreview.net/forum?id=Hnk1WRMAYqg
 
-### Topic 4: Federated Generative AI Systems
+4. PrE-Text: Training Language Models on Private Federated Data in the Age of LLMs
+https://arxiv.org/abs/2406.02958
 
+5. FedMBridge: Bridgeable Multimodal Federated Learning
+https://arxiv.org/abs/2402.15858
 
-- Tree-Ring Watermarks: Fingerprints for Diffusion Images that are Invisible and Robust
+<!--Tree-Ring Watermarks: Fingerprints for Diffusion Images that are Invisible and Robust
 https://arxiv.org/abs/2305.20030
 - Diffusion Models and Semi-Supervised Learners Benefit Mutually with Few Labels
 https://arxiv.org/abs/2302.10586
-- SiloFuse: SiloFuse: Cross-silo Synthetic Data Generation with Latent Tabular Diffusion Model
+-->
+
+6.  SiloFuse: SiloFuse: Cross-silo Synthetic Data Generation with Latent Tabular Diffusion Model
 https://arxiv.org/abs/2404.03299
 
-### Topic 5: Attacks and Defenses in ML Systems
+### Topic 3: Attacks and Defenses in ML Systems
 
-- Understanding and Mitigating Copying in Diffusion Models
+1. Understanding and Mitigating Copying in Diffusion Models
 https://arxiv.org/pdf/2210.10880.pdf
 - Learning to Invert: Simple Adaptive Attacks for Gradient Inversion in Federated Learning
 https://arxiv.org/abs/2210.10880
-- A Watermark for Large Language Models
-https://arxiv.org/abs/2301.10226
-- Lockdown: Backdoor Defense for Federated Learning with Isolated Subspace Training
-https://openreview.net/forum?id=V5cQH7JbGo
 
-### Topic 6: Scalable Inference and Fine-tuning
+2. Privacy Attacks in Decentralized Learning
+https://proceedings.mlr.press/v235/mrini24a.html
 
-- QLORA: Efficient Finetuning of Quantized LLMs
+3. The Stronger the Diffusion Model, the Easier the Backdoor: 
+https://arxiv.org/html/2401.04136v2
+4. Lockdown: Backdoor Defense for Federated Learning with Isolated Subspace Training
+ https://proceedings.neurips.cc/paper_files/paper/2023/hash/2376f25ef1725a9e3516ee3c86a59f46-Abstract-Conference.html
+ 5.  Stealing part of a production language model
+  https://arxiv.org/pdf/2403.06634
+
+6. DeTA: Minimizing Data Leaks in Federated Learning via Decentralized and Trustworthy Aggregation
+https://gzs715.github.io/pubs/DETA_EUROSYS24.pdf
+
+### Topic 4: Scalable Inference and Fine-tuning
+
+1. QLORA: Efficient Finetuning of Quantized LLMs
 https://openreview.net/pdf?id=OUIFPHEgJU
 
-- MatFormer: Nested Transformer for Elastic Inference
+2. MatFormer: Nested Transformer for Elastic Inference
 https://arxiv.org/abs/2310.07707
 
-- Efficient Memory Management for Large Language Model Serving with PagedAttention
+3. Efficient Memory Management for Large Language Model Serving with PagedAttention
 https://arxiv.org/abs/2309.06180
 
-- Retentive Network: A Successor to Transformer for Large Language Models
-https://arxiv.org/abs/2307.08621
+4. PUZZLE: Efficiently Aligning Large Language Models through Light-Weight Context Switch
+https://www.usenix.org/conference/atc24/presentation/lei
 
+5. Model Selection for Latency-Critical Inference Serving
+https://cs.stanford.edu/people/dmendo/papers/eurosys24-final.pdf
 
-
+6. Optimus: Warming Serverless ML Inference via Inter-Function Model Transformationhttps://tik-db.ee.ethz.ch/file/aac002beed0a1a9c9640746841d50c40/
 
 
 

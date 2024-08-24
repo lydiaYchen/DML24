@@ -67,17 +67,17 @@ To pass the course, you need to
 
 **Week**|**Topic**|**Presenter**
 :-----|:----- |:-----
-Week 1 (09/17) | Distributed Machine Learning I | Lydia
-Week 2 (09/24)| Acceleration | Lydia
-Week 3 (10/01)| Federated Machine Learning II | Lydia
-Week 4 (10/08)| Self study|
-Week 5 (10/15)| Self study|
-Week 6 (10/22)| Self study |
-Week 7 (10/29)| Self study |
-Week 8 (11/05)| Topic 1-5 | Bart and students
-Week 9 (11/12| Topic 1-5 | Nikolay and students
-Week 10 (11/19)|Topic 1-5 | Aditya and students
-Week 11 (11/26)| Topic 1-5 | Gill and students
-Week 12 (12/09)| Topic 1-5 | Basil and students
-Week 13 (12/10)| Writing reviews
-Week 14 (12/17)| Writing reviews
+Week 1 (09/24) | Distributed Machine Learning I | Lydia
+Week 2 (10/01)| Acceleration | Lydia
+Week 3 (10/08)| Federated Machine Learning II | Lydia
+Week 4 (10/15)| Self study|
+Week 5 (10/22)| Self study|
+Week 6 (10/29)| Self study |
+Week 7 (11/205)| Self study |Bart and students
+Week 8 (11/12| Topic 1-4 | Nikolay and students
+Week 9 (11/19)| Topic 1-4 | Aditya and students
+Week 10 (11/26)|Topic 1-4 | Gill and students
+Week 11 (12/03)| Topic 1-4 |Reserved presentation
+Week 12 (12/10)| Topic 1-4 | Writing reviews
+Week 13 (12/17)| Writing reviews
+

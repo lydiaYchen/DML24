@@ -73,11 +73,11 @@ Week 3 (10/08)| Federated Machine Learning II | Lydia
 Week 4 (10/15)| Self study|
 Week 5 (10/22)| Self study|
 Week 6 (10/29)| Self study |
-Week 7 (11/205)| Self study |Bart and students
+Week 7 (11/205)| Self study |
 Week 8 (11/12| Topic 1-4 | Nikolay and students
-Week 9 (11/19)| Topic 1-4 | Aditya and students
+Week 9 (11/19)| Topic 1-4 | Bart and students
 Week 10 (11/26)|Topic 1-4 | Gill and students
 Week 11 (12/03)| Topic 1-4 |Reserved presentation
-Week 12 (12/10)| Topic 1-4 | Writing reviews
+Week 12 (12/10)|  Writing reviews
 Week 13 (12/17)| Writing reviews
 

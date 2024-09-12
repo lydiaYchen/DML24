@@ -57,8 +57,10 @@ https://proceedings.mlr.press/v235/mrini24a.html
 
 3. The Stronger the Diffusion Model, the Easier the Backdoor: 
 https://arxiv.org/html/2401.04136v2
+
 4. Lockdown: Backdoor Defense for Federated Learning with Isolated Subspace Training
  https://proceedings.neurips.cc/paper_files/paper/2023/hash/2376f25ef1725a9e3516ee3c86a59f46-Abstract-Conference.html
+ 
  5.  Stealing part of a production language model
   https://arxiv.org/pdf/2403.06634
 
@@ -82,7 +84,8 @@ https://www.usenix.org/conference/atc24/presentation/lei
 5. Model Selection for Latency-Critical Inference Serving
 https://cs.stanford.edu/people/dmendo/papers/eurosys24-final.pdf
 
-6. Optimus: Warming Serverless ML Inference via Inter-Function Model Transformationhttps://tik-db.ee.ethz.ch/file/aac002beed0a1a9c9640746841d50c40/
+6. Optimus: Warming Serverless ML Inference via Inter-Function Model Transformation
+  https://tik-db.ee.ethz.ch/file/aac002beed0a1a9c9640746841d50c40/
 
 
 
